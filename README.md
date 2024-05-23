@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
-
 <div align="center">
 Oii! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 </h1>
@@ -7,7 +5,7 @@ Oii! Bem-vindos ao meu GitHub!
   
 - 🔭 Em busca de uma primeira oportunidade como DEV
 - 🌱 Estagiando na área de Governança de TI no SPC Brasil
-- 🎓 Atualmente, no 5º período de ADS e 1º de Gestão de TI
+- 🎓 Atualmente, no 5º período de ADS e 1º de Engenharia de Software
 - 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java, Spring Boot e Angular.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e doces (～￣▽￣)～
@@ -75,6 +73,3 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/codinGloria/codinGloria/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>

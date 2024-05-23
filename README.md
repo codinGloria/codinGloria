@@ -64,16 +64,17 @@ Oii! Bem-vindos ao meu GitHub!
 <div align="center"> 
   <a href="mailto:liviafariabraz282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/codingloria/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://codingloria.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{liviabraz}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{codingloria}/count.svg" /></p> 
 <br>
 </div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/codinGloria/codinGloria/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>

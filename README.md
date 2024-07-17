@@ -5,7 +5,7 @@ Oii! Bem-vindos ao meu GitHub!
   
 - 🔭 Em busca de uma primeira oportunidade como DEV
 - 🌱 Estagiando na área de Governança de TI no SPC Brasil
-- 🎓 Atualmente, no 5º período de ADS e 1º de Engenharia de Software
+- 🎓 Atualmente, graduada em Análise e Desenv. de Sistemas e cursando 1º período de Engenharia de Software
 - 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java e Angular.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e doces (～￣▽￣)～
@@ -22,7 +22,6 @@ Oii! Bem-vindos ao meu GitHub!
       <td>       
         <img align="center" alt="Java" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
         <img align="center" alt="Angular" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
-        <img align="center" alt="React" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
         <img align="center" alt="HTML5" width="42" height="42" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
         <img align="center" alt="CSS" width="42" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
         <img align="center" alt="JS" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>

@@ -5,10 +5,10 @@ Oii! Bem-vindos ao meu GitHub!
   
 - 🔭 Em busca de uma primeira oportunidade como DEV
 - 🌱 Estagiando na área de Governança de TI no SPC Brasil
-- 🎓 Atualmente, graduada em Análise e Desenv. de Sistemas e cursando 1º período de Engenharia de Software
+- 🎓 Atualmente, graduada em Análise e Desenv. de Sistemas e cursando 1º período de Engenharia de Software na INFNET
 - 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java e Angular.
 - 😄 Idiomas: Inglês avançado :]
-- ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e doces (～￣▽￣)～
+- ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca-cola, doces, livros e gatinhos (～￣▽￣)～❤️
 
  ## 
 

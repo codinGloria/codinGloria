@@ -3,10 +3,9 @@ Oii! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 </h1>
 </div>
   
-- 🔭 Em busca de uma primeira oportunidade como DEV
-- 🌱 Estagiando na área de Governança de TI no SPC Brasil
-- 🎓 Atualmente, graduada em Análise e Desenv. de Sistemas e cursando 1º período de Engenharia de Software na INFNET
-- 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java e Angular.
+- 🌱 Estagiando como Desenvolvedora Back End
+- 🎓 Atualmente, formada em Análise e Desenv. de Sistemas e cursando 1º período de Engenharia de Software na INFNET
+- 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java, Spring Boot e Microsserviços.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca-cola, doces, livros e gatinhos (～￣▽￣)～❤️
 
@@ -58,8 +57,8 @@ Oii! Bem-vindos ao meu GitHub!
 <br>
 
 <div align="center"> 
-  <a href="mailto:liviafariabraz282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gloriabraz.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/codingloria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/codingloria_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://codingloria.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>

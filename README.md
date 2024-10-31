@@ -3,11 +3,12 @@ Oii! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 </h1>
 </div>
   
-- 🌱 Estagiando como Desenvolvedora Back End
+- 🌱 Estagiando como Desenvolvedora Backend na Akross
 - 🎓 Atualmente, formada em Análise e Desenv. de Sistemas e cursando 1º período de Engenharia de Software na INFNET
 - 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java, Spring Boot e Microsserviços.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca-cola, doces, livros e gatinhos (～￣▽￣)～❤️
+- ♾️ PCD: Transtorno do Espectro Autista (TEA)
 
  ## 
 
@@ -57,7 +58,7 @@ Oii! Bem-vindos ao meu GitHub!
 <br>
 
 <div align="center"> 
-  <a href="mailto:gloriabraz.tech@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:codingloria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/codingloria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://codingloria.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>

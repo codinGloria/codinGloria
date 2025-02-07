@@ -4,7 +4,7 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
   
 - 🌱 Estagiando como Desenvolvedora Backend na Akross
-- 🎓 Atualmente, formada em Análise e Desenv. de Sistemas e cursando 1º período de Engenharia de Software na INFNET
+- 🎓 Atualmente, formada em Análise e Desenv. de Sistemas e cursando 2º período de Engenharia de Software na INFNET
 - 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java, Spring Boot e Microsserviços.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca-cola, doces, livros e gatinhos (～￣▽￣)～❤️

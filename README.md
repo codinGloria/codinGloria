@@ -3,11 +3,11 @@ Oii! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 </h1>
 </div>
   
-- 🌱 Estagiando como Desenvolvedora Backend na Akross
+- 🌱 Estagiando como Engenheira de Software no Banco BV
 - 🎓 Atualmente, formada em Análise e Desenv. de Sistemas e cursando 2º período de Engenharia de Software na INFNET
-- 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java, Spring Boot e Microsserviços.
+- 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java, Spring Boot, Microsserviços e GCP.
 - 😄 Idiomas: Inglês avançado :]
-- ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca-cola, doces, livros e gatinhos (～￣▽￣)～❤️
+- ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca-cola, doces, livros, crochê e gatinhos (～￣▽￣)～❤️
 - ♾️ PCD: Transtorno do Espectro Autista (TEA)
 
  ## 

@@ -4,7 +4,8 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
   
 - 🌱 Estagiando como Engenheira de Software no Banco BV
-- 🎓 Atualmente, formada em Análise e Desenv. de Sistemas e cursando 2º período de Engenharia de Software na INFNET
+- 👩🏾‍🎓 Graduada em Análise e Desenvolvimento de Sistemas
+- 🎓 Cursando 1º período de Engenharia de Software na Faculdade Descomplica
 - 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java, Spring Boot, Microsserviços e GCP.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, doces, livros, crochê e gatinhos (～￣▽￣)～❤️

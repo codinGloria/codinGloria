@@ -5,10 +5,11 @@ Oii! Bem-vindos ao meu GitHub!
   
 - 🌱 Estagiando como Engenheira de Software no Banco BV
 - 👩🏾‍🎓 Graduada em Análise e Desenvolvimento de Sistemas
-- 🎓 Cursando 1º período de Engenharia de Software na Faculdade Descomplica
-- 👩🏽‍💻 Também procuro aprender mais além, no momento aperfeiçoando Java, Spring Boot, Microsserviços e GCP.
+- 🎓 Cursando 3º período de Engenharia de Software
+- 👩🏽‍💻 Aprendendo e explorando: Java, Spring, Microsserviços e Camel
+- 🤖 Interessada em IA aplicada, agentes inteligentes, LLMs e produtividade com IA
 - 😄 Idiomas: Inglês avançado :]
-- ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, doces, livros, crochê e gatinhos (～￣▽￣)～❤️
+- ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, doces, livros e gatinhos (～￣▽￣)～❤️
 - ♾️ PCD: Transtorno do Espectro Autista (TEA)
 
  ## 

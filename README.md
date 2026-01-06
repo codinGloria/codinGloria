@@ -124,6 +124,7 @@ Fora do código, gosto de músicas das mais variadas, gatinhos, doces, animes e 
 | :-: | :-: |
 
 --- 
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codingloria/codingloria/output/pacman-contribution-graph-dark.svg">
@@ -132,10 +133,5 @@ Fora do código, gosto de músicas das mais variadas, gatinhos, doces, animes e 
 </picture>
 
 <br>
-<div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{codingloria}/count.svg" /></p> 
-  <br>
 
-  #### Obrigada por ser um deles! 
-</div>
+### Obrigada por visitar meu perfil 🌹

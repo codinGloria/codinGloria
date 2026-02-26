@@ -1,26 +1,25 @@
+<!--- Banner -->
 <div align="center">
-Oii! Bem-vindos ao meu GitHub!
+Oie! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Glória 🌹 </h1>
 </div>
 
-<!--- Banner -->
 </br> 
 <img src="assets/iconcat_3.jpg" width=320 align="left">
 
-<div align="justify">
-
 <!--- About me -->
+<div align="justify">
+    
 ### Sobre mim
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=CC3333&background=F29FFF00&width=500&height=30&lines=Interessada+em+IA+Aplicada+%E2%9D%A4%EF%B8%8F+;Atuo+do+backend+ao+frontend+%F0%9F%8E%A8;Adoro+gatinhos+e+livros+!+%E2%AD%90)](https://git.io/typing-svg)
 
-Sou `Engenheira de Software`, com experiência em **Engenharia de Dados** e **Governança de TI**, atuando ao longo de diferentes camadas do sistema. Sou formada em **Análise e Desenvolvimento de Sistemas**, curso **Engenharia de Software** e futuramente realizarei uma especialização em **Engenharia de IA e MLOps**.
+Sou `Engenheira de Software`, com experiência em **Engenharia de Dados** e **Governança de TI**, atuando ao longo de diferentes camadas do sistema. Sou formada em **Análise e Desenvolvimento de Sistemas** e curso **Engenharia de Software** atualmente no 5º período.
 
 Atuar em empresas de grande porte me proporcionou uma visão sólida sobre **necessidades do usuário, regras de negócio e integração entre sistemas**, contribuindo para a construção de aplicações que realmente geram valor para os clientes.
 
 Tenho experiência em **desenvolvimento backend** com `Java`, atuando com **Spring**, **Microsserviços**, **Kafka**, **Camel** e **Datadog**, além de desenvolver e estudar soluções em **frontend** com **Angular** e **React**, buscando uma visão completa do produto.
 
 Sou curiosa por natureza, valorizo aprendizado contínuo e tenho interesse crescente em **Inteligência Artificial aplicada ao desenvolvimento de software**, explorando seu uso de forma responsável para melhorar qualidade, eficiência e impacto das soluções.
-
 
 </div>
 
@@ -90,7 +89,7 @@ Sou curiosa por natureza, valorizo aprendizado contínuo e tenho interesse cresc
 <div align="justify">
     
 ### Um pouco mais sobre mim! 
-Sou extremamente feliz fazendo o que AMO, desenvolver / programar / codar e sei que quero fazer isso pro resto da vida (até se ganhar na mega e dinheiro nao for mais preocupação)
+Sou extremamente feliz fazendo o que AMO, desenvolver / programar / codar e sei que quero fazer isso pro resto da vida (até se ganhar na mega e dinheiro não for mais preocupação)
 
 Me importo genuinamente com minha carreira e tenho uma vontade constante de evoluir, tanto técnica quanto profissionalmente. Por isso, busco ambientes colaborativos, com troca real de conhecimento e planos de carreira de longo prazo, onde seja possível crescer de forma consistente
 
@@ -98,17 +97,9 @@ Estou sempre aberta a ajudar outras pessoas na área, assim como aprender com el
 
 Fora do código, gosto de músicas das mais variadas, gatinhos, doces, animes e livros :]
 
-**Fale comigo:**
-
-  <a href="https://www.linkedin.com/in/liviabraz">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gloria.liviabraz@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://codingloria.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
-  </a>
+<div align="center">
+    <h3 >Fale comigo:</h3> <a href="https://www.linkedin.com/in/liviabraz"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />  </a> <a href="mailto:gloria.liviabraz@gmail.com">    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=white" />  </a> <a href="https://codingloria.com.br/" target="_blank">    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">  </a>
+</div>
 </div>
 
 ---
@@ -117,8 +108,7 @@ Fora do código, gosto de músicas das mais variadas, gatinhos, doces, animes e 
   
 ### Estatísticas
 
-| ![Gloria Stats Profile](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codingloria&mode=daily&theme=dark&title_color=DC2626&icon_color=DC2626&text_color=ffffff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingloria&hide=Html&theme=dark&title_color=DC2626&icon_color=DC2626&text_color=ffffff) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingloria&theme=dark&title_color=DC2626&icon_color=DC2626&text_color=ffffff) |
-| :-: | :-: | :-: |
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingloria&hide=Html&theme=dark&title_color=DC2626&icon_color=DC2626&text_color=ffffff) 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingloria&theme=dark&title_color=DC2626&icon_color=DC2626&text_color=ffffff) | ![](https://streak-stats.demolab.com?user=codingloria&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5) |
 | :-: | :-: |

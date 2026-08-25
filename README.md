@@ -13,13 +13,13 @@ Oie! Bem-vindos ao meu GitHub!
 ### Sobre mim
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=CC3333&background=F29FFF00&width=500&height=30&lines=Interessada+em+IA+Aplicada+%E2%9D%A4%EF%B8%8F+;Atuo+do+backend+ao+frontend+%F0%9F%8E%A8;Adoro+gatinhos+e+livros+!+%E2%AD%90)](https://git.io/typing-svg)
 
-Sou `Engenheira de Software`, com experiência em **Engenharia de Dados** e **Governança de TI**, atuando ao longo de diferentes camadas do sistema. Sou formada em **Análise e Desenvolvimento de Sistemas** e curso **Engenharia de Software** atualmente no 5º período.
+Sou `Engenheira de Software`, com experiência em **Engenharia de Dados** e **Governança de TI**, atuando ao longo de diferentes camadas do sistema. Sou formada em **Análise e Desenvolvimento de Sistemas**.
 
 Atuar em empresas de grande porte me proporcionou uma visão sólida sobre **necessidades do usuário, regras de negócio e integração entre sistemas**, contribuindo para a construção de aplicações que realmente geram valor para os clientes.
 
 Tenho experiência em **desenvolvimento backend** com `Java`, atuando com **Spring**, **Microsserviços**, **Kafka**, **Camel** e **Datadog**, além de desenvolver e estudar soluções em **frontend** com **Angular** e **React**, buscando uma visão completa do produto.
 
-Sou curiosa por natureza, valorizo aprendizado contínuo e tenho interesse crescente em **Inteligência Artificial aplicada ao desenvolvimento de software**, explorando seu uso de forma responsável para melhorar qualidade, eficiência e impacto das soluções.
+Sou curiosa por natureza, valorizo aprendizado contínuo e nas minhas experiências, pude passar rapidamente (6 meses a 2 anos) em: **Engenharia de Dados**, **Governança de TI** e **Sustentação**. Onde consegui visões amplas da área de tecnologia, focando em `SQL`, `Atendimento aos clientes`, `Resolução e análise de problemas`. 
 
 </div>
 

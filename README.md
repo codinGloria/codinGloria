@@ -5,7 +5,7 @@ Oie! Bem-vindos ao meu GitHub!
 </div>
 
 </br> 
-<img src="assets/iconcat_3.jpg" width=320 align="left">
+<img src="assets/iconcat_1.jpg" width=320 align="left">
 
 <!--- About me -->
 <div align="justify">
@@ -13,13 +13,13 @@ Oie! Bem-vindos ao meu GitHub!
 ### Sobre mim
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=CC3333&background=F29FFF00&width=500&height=30&lines=Interessada+em+IA+Aplicada+%E2%9D%A4%EF%B8%8F+;Atuo+do+backend+ao+frontend+%F0%9F%8E%A8;Adoro+gatinhos+e+livros+!+%E2%AD%90)](https://git.io/typing-svg)
 
-Sou `Engenheira de Software`, com experiência em **Engenharia de Dados** e **Governança de TI**, atuando ao longo de diferentes camadas do sistema. Sou formada em **Análise e Desenvolvimento de Sistemas**.
+`Engenheira de Software`, com experiência em **Engenharia de Dados** e **Governança de TI**, atuando ao longo de diferentes camadas do sistema. Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Bacharelado em Engenharia de Software**.
 
-Atuar em empresas de grande porte me proporcionou uma visão sólida sobre **necessidades do usuário, regras de negócio e integração entre sistemas**, contribuindo para a construção de aplicações que realmente geram valor para os clientes.
+Sou curiosa por natureza, valorizo aprendizado contínuo e nas minhas experiências, pude passar (6 meses a 2 anos) em: **Engenharia de Dados**, **Governança de TI** e **Sustentação**. Onde consegui visões amplas da área de tecnologia, principalmente em `SQL`, `Atendimento aos clientes`, `Resolução e análise de problemas`. 
 
-Tenho experiência em **desenvolvimento backend** com `Java`, atuando com **Spring**, **Microsserviços**, **Kafka**, **Camel** e **Datadog**, além de desenvolver e estudar soluções em **frontend** com **Angular** e **React**, buscando uma visão completa do produto.
+Tenho experiência em **desenvolvimento backend** com `Java`, atuando com **Spring**, **Microsserviços**, **Kafka**, **Camel**, **Datadog** e **Metodologias Ágeis**,  além de desenvolver e estudar soluções em **frontend** com **Angular** e **React**, buscando uma visão completa do produto.
 
-Sou curiosa por natureza, valorizo aprendizado contínuo e nas minhas experiências, pude passar rapidamente (6 meses a 2 anos) em: **Engenharia de Dados**, **Governança de TI** e **Sustentação**. Onde consegui visões amplas da área de tecnologia, focando em `SQL`, `Atendimento aos clientes`, `Resolução e análise de problemas`. 
+Atuar em empresas de grande porte me proporcionou uma visão sólida sobre **necessidades do usuário, regras de negócio e integração entre sistemas**, contribuindo para a construção de aplicações que realmente geram valor para os clientes :]
 
 </div>
 
@@ -39,12 +39,10 @@ Sou curiosa por natureza, valorizo aprendizado contínuo e nas minhas experiênc
 
 #### Cloud, Observabilidade e DevOps
 <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Datadog-000000?style=for-the-badge&logo=datadog&logoColor=white" />
 <img src="https://img.shields.io/badge/Kibana-000000?style=for-the-badge&logo=kibana&logoColor=white" />
 <img src="https://img.shields.io/badge/Elasticsearch-000000?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white" />
 
 #### Dados e Mensageria 
 <img src="https://img.shields.io/badge/PostgreSQL-DC2626?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -93,7 +91,7 @@ Sou extremamente feliz fazendo o que AMO, desenvolver / programar / codar e sei 
 
 Me importo genuinamente com minha carreira e tenho uma vontade constante de evoluir, tanto técnica quanto profissionalmente. Por isso, busco ambientes colaborativos, com troca real de conhecimento e planos de carreira de longo prazo, onde seja possível crescer de forma consistente
 
-Estou sempre aberta a ajudar outras pessoas na área, assim como aprender com elas. Acredito muito na construção coletiva e no aprendizado contínuo, seja ensinando ou sendo ensinada
+Estou sempre aberta a ajudar outras pessoas na área, assim como aprender com elas. Acredito muito na construção coletiva e no aprendizado contínuo, seja ensinando ou sendo ensinada, por isso, um dos meus objetivos principais de vida é ser uma mulher de **referência!!** Ajudando iniciantes, e principalmente mulheres a se tornarem bons profissionais, através de palestras, mentorias e troca de conhecimento é o que pretendo!
 
 Fora do código, gosto de músicas das mais variadas, gatinhos, doces, animes e livros :]
 

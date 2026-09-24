@@ -5,13 +5,18 @@ Oie! Bem-vindos ao meu GitHub!
 </div>
 
 </br> 
-<img src="assets/iconcat_1.jpg" width=320 align="left">
 
 <!--- About me -->
+<div align="center"> 
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=CC3333&background=F29FFF00&width=500&height=30&lines=Interessada+em+IA+Aplicada+%E2%9D%A4%EF%B8%8F+;Atuo+do+backend+ao+frontend+%F0%9F%8E%A8;Amo+gatinhos+e+livros+!+%E2%AD%90)](https://git.io/typing-svg) 
+
+</div>
+
+
 <div align="justify">
     
-### Sobre mim
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=CC3333&background=F29FFF00&width=500&height=30&lines=Interessada+em+IA+Aplicada+%E2%9D%A4%EF%B8%8F+;Atuo+do+backend+ao+frontend+%F0%9F%8E%A8;Adoro+gatinhos+e+livros+!+%E2%AD%90)](https://git.io/typing-svg)
+<img src="assets/iconcat_3.jpg" width=320 align="left">
 
 `Engenheira de Software`, com experiência em **Engenharia de Dados** e **Governança de TI**, atuando ao longo de diferentes camadas do sistema. Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Bacharelado em Engenharia de Software**.
 
@@ -91,7 +96,9 @@ Sou extremamente feliz fazendo o que AMO, desenvolver / programar / codar e sei 
 
 Me importo genuinamente com minha carreira e tenho uma vontade constante de evoluir, tanto técnica quanto profissionalmente. Por isso, busco ambientes colaborativos, com troca real de conhecimento e planos de carreira de longo prazo, onde seja possível crescer de forma consistente
 
-Estou sempre aberta a ajudar outras pessoas na área, assim como aprender com elas. Acredito muito na construção coletiva e no aprendizado contínuo, seja ensinando ou sendo ensinada, por isso, um dos meus objetivos principais de vida é ser uma mulher de **referência!!** Ajudando iniciantes, e principalmente mulheres a se tornarem bons profissionais, através de palestras, mentorias e troca de conhecimento é o que pretendo!
+Um dos meus objetivos principais de vida é ser uma mulher de **REFERÊNCIA** na área de Tecnologia, não apenas pelo trabalho, mas também pelo impacto que posso gerar na trajetória de outras pessoas. Quero ajudar principalmente iniciantes e mulheres a conquistarem seu espaço, compartilhando conhecimento através de palestras, mentorias e trocas genuínas. 
+
+Ao mesmo tempo, estou sempre aberta a aprender com quem cruza meu caminho, porque acredito que conhecimento só faz sentido quando é compartilhado. 🌹
 
 Fora do código, gosto de músicas das mais variadas, gatinhos, doces, animes e livros :]
 

@@ -18,7 +18,7 @@ Oie! Bem-vindos ao meu GitHub!
     
 <img src="assets/iconcat_3.jpg" width=320 align="left">
 
-`Engenheira de Software`, com experiência em **Engenharia de Dados** e **Governança de TI**, atuando ao longo de diferentes camadas do sistema. Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Bacharelado em Engenharia de Software**.
+`Engenheira de Software`, com experiência em **Engenharia de Dados** e **Governança de TI**, atuando ao longo de diferentes camadas do sistema. Sou formada em **Análise e Desenvolvimento de Sistemas** e pretendo cursar uma pós em **Java + IA**. 
 
 Sou curiosa por natureza, valorizo aprendizado contínuo e nas minhas experiências, pude passar (6 meses a 2 anos) em: **Engenharia de Dados**, **Governança de TI** e **Sustentação**. Onde consegui visões amplas da área de tecnologia, principalmente em `SQL`, `Atendimento aos clientes`, `Resolução e análise de problemas`. 
 
